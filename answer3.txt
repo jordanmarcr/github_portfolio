@@ -1,0 +1,17 @@
+<main>
+  <h3>Using the following 200px x 200px image: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fxemoji_u1F648.svg/200px-Fxemoji_u1F648.svg.png">https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fxemoji_u1F648.svg/200px-Fxemoji_u1F648.svg.png</a></h3>
+  <ul>
+    <li>Without modifying the HTML already in place, add the following styles:</li>
+    <ol>
+      <li>Add the image as a 'background-image' on the h1 tag</li>
+      <li>Adjust the 'background-size' to fill the entire h1 container with the image</li>
+      <li>Add the image as a 'background-image' on the div with the class of "monkeys". Allow this image to repeat to fill the container.</li>
+    </ol>
+  </ul>
+  <section>
+    <h1>My Page</h1>
+    <div class="monkeys">
+      I love monkeys!
+    </div>
+  </section>
+</main>

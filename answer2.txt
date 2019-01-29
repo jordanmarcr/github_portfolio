@@ -1,0 +1,27 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <article>
+    <section>
+        <h1 class="name">Bill Murray</h1>
+        <img class="headshot" src="http://fillmurray.com/200/200" />
+        <a class="button" href="/users/1">View Bill's profile</a>
+    </section>
+
+    <section>
+        <h1 class="name">Nick Cage</h1>
+        <img class="headshot" src="http://www.placecage.com/200/200" />
+        <a class="button" href="/users/1">View Nick's profile</a>
+    </section>
+
+    <section>
+        <h1 class="name" id="SegalName">Stevey Segal</h1>
+        <img class="headshot"src="https://www.stevensegallery.com/200/200" />
+        <a class="button" href="/users/3">View Stevey's profile</a>
+    </section>
+</article>
+</body>

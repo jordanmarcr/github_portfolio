@@ -1,0 +1,8 @@
+<img/>
+src, width, height, href
+<a>link</a>
+href, download
+<form></form>
+action, autocomplete
+<input>
+type, value, autocomplete, autofocus
